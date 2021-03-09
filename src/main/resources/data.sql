@@ -1,0 +1,1 @@
+INSERT INTO SUBSCRIBER (firstName, lastName, userName) VALUES
